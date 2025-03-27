@@ -1,6 +1,6 @@
 # 📊 Dashboard App
 
-A **React.js/Next.js** application with user authentication and a dashboard displaying a data table with filtering and sorting.
+A **Next.js** application with user authentication and a dashboard displaying a data table with filtering and sorting.
 
 ---
 
